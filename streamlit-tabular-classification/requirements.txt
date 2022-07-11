@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+matplotlib
+colour
+plotly
+streamlit
+streamlit-echarts
